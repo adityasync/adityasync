@@ -1,4 +1,4 @@
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/adityasync/adityasync/blob/output/github-snake-dark.svg)
 
 # 💫 About Me:
 🔭 I’m currently Studying<br>👯 I’m looking to collaborate on front-end<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about Me<br>⚡ Fun fact I love music / games
