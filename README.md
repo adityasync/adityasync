@@ -1,5 +1,8 @@
-![snake gif](https://github.com/adityasync/adityasync/blob/output/github-snake-dark.svg)
-
+<div align = "center">
+  
+  ![snake gif](https://github.com/adityasync/adityasync/blob/output/github-snake-dark.svg)
+  
+</div>
 # 💫 About Me:
 🔭 I’m currently Studying<br>👯 I’m looking to collaborate on front-end<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about Me<br>⚡ Fun fact I love music / games
 
