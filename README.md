@@ -45,10 +45,8 @@ My journey in tech began when I discovered how a few lines of code could build p
 </div>
 
 ## 📊 GitHub Stats
-<div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityasync&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasync&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 💻 Skills Progress
 <div align="center">
