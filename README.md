@@ -6,7 +6,7 @@
 
 
 
-### 👋 Hi there, I'm Aditya Gupta!
+### 👋 Hi there, I'm Aditya!
 
 I'm a passionate **Computer Science and Engineering** student with a deep interest in **software development** and **problem-solving**.
 My journey in tech began when I discovered how a few lines of code could build powerful solutions that make a real difference — and I've been hooked ever since.
