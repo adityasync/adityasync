@@ -46,15 +46,22 @@ My journey in tech began when I discovered how a few lines of code could build p
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityasync&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasync&theme=radical" alt="GitHub Streak" />
-</div>
+<!-- GitHub Stats --> 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityasync&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&border_radius=10&custom_title=Aditya's%20GitHub%20Stats" alt="GitHub Stats" width="48%" /> <!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasync&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="48%" />
 
+</div>
 
 ## 💻 Skills Progress
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasync&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- GitHub Top Languages -->
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityasync&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" 
+    alt="Top Languages" 
+    width="48%" 
+  />
 </div>
+
 
 
 ## 🌱 Currently Learning
