@@ -18,10 +18,8 @@ My journey in tech began when I discovered how a few lines of code could build p
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/adityasync/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://adityasync.github.io/portfolio-web/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:adityabuilds@outlook.com)
-[![Resume](https://img.shields.io/badge/Resume-View-green)](https://adityasync.github.io/my-resume/resume.pdf)
 
 # 💻 Tech Stack:
 <div align="center">
