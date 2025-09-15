@@ -18,7 +18,7 @@ My journey in tech began when I discovered how a few lines of code could build p
 
 ## 🌐 Connect with Me:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://adityasync.github.io/portfolio-web/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://adityasync.github.io/home/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:adityabuilds@outlook.com)
 
 # 💻 Tech Stack:
