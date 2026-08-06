@@ -1,0 +1,46 @@
+<svg viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="brickTileFooter" width="120" height="60" patternUnits="userSpaceOnUse">
+      <rect width="120" height="60" fill="#0A0A0A"/>
+      <rect x="2" y="2" width="56" height="56" rx="4" fill="#141414"/>
+      <rect x="62" y="2" width="56" height="56" rx="4" fill="#141414"/>
+      <circle cx="30" cy="16" r="8" fill="#1C1C1C"/>
+      <circle cx="90" cy="16" r="8" fill="#1C1C1C"/>
+    </pattern>
+
+    <radialGradient id="studShineFooter" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#FFE066"/>
+      <stop offset="60%" stop-color="#FFC300"/>
+      <stop offset="100%" stop-color="#E0A800"/>
+    </radialGradient>
+
+    <linearGradient id="vignetteFooter" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="160" fill="#0A0A0A"/>
+  <rect width="1200" height="160" fill="url(#brickTileFooter)"/>
+  <rect width="1200" height="160" fill="url(#vignetteFooter)"/>
+  <rect x="3" y="3" width="1194" height="154" fill="none" stroke="#FFC300" stroke-width="3" opacity="0.5"/>
+
+  <!-- stud row across the top like the underside of the banner brick -->
+  <g>
+    <circle cx="40" cy="8" r="10" fill="url(#studShineFooter)" stroke="#000000" stroke-width="2"/>
+    <circle cx="90" cy="8" r="10" fill="url(#studShineFooter)" stroke="#000000" stroke-width="2"/>
+    <circle cx="140" cy="8" r="10" fill="url(#studShineFooter)" stroke="#000000" stroke-width="2"/>
+    <circle cx="190" cy="8" r="10" fill="url(#studShineFooter)" stroke="#000000" stroke-width="2"/>
+    <circle cx="1010" cy="8" r="10" fill="url(#studShineFooter)" stroke="#000000" stroke-width="2"/>
+    <circle cx="1060" cy="8" r="10" fill="url(#studShineFooter)" stroke="#000000" stroke-width="2"/>
+    <circle cx="1110" cy="8" r="10" fill="url(#studShineFooter)" stroke="#000000" stroke-width="2"/>
+    <circle cx="1160" cy="8" r="10" fill="url(#studShineFooter)" stroke="#000000" stroke-width="2"/>
+  </g>
+
+  <text x="600" y="75" font-family="JetBrains Mono, monospace" font-size="26" font-weight="700" fill="#FFC300" text-anchor="middle">THANKS FOR STOPPING BY</text>
+  <text x="600" y="108" font-family="JetBrains Mono, monospace" font-size="15" fill="#D4D4D8" text-anchor="middle">built brick by brick, one commit at a time</text>
+
+  <!-- closing accent bricks -->
+  <rect x="520" y="128" width="60" height="18" rx="4" fill="#FFC300" stroke="#000000" stroke-width="2"/>
+  <rect x="590" y="128" width="60" height="18" rx="4" fill="#000000" stroke="#FFC300" stroke-width="2"/>
+</svg>
