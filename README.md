@@ -192,6 +192,7 @@ Lofi isometric Three.js interactive room as my portfolio root — clickable obje
 <div align="center">
 <img src="./assets/divider.svg" width="100%" alt=""/>
 </div>
+</div>
 
 ## Fun Facts
 
