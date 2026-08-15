@@ -24,7 +24,7 @@
 
 ## About
 
-I'm **Aditya** — final-year **Computer Engineering** student (Data Science minor) at Ramrao Adik Institute of Technology, Mumbai. I build CLI-first APIs, stateless real-time systems, and interfaces with zero wasted pixels. My aesthetic is **tech-noir**: AMOLED black, zinc greys, monospace type, sharp geometry — pulled from Apple's restraint, Palantir's density, and F1's obsession with shaving milliseconds off everything.
+I'm **Aditya** — a **Computer Engineering** graduate (Data Science minor). I build CLI-first APIs, stateless real-time systems, and interfaces with zero wasted pixels. My aesthetic is **tech-noir**: AMOLED black, zinc greys, monospace type, sharp geometry — pulled from Apple's restraint, Palantir's density, and F1's obsession with shaving milliseconds off everything.
 
 - **Building** curl-friendly, stateless, terminal-first developer tooling
 - **Shipping** AI-native products — from supply chain copilots to stock market cockpits
@@ -112,11 +112,11 @@ I'm **Aditya** — final-year **Computer Engineering** student (Data Science min
 <p>
   <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=FFC300" height="72"/>
   <img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=FFC300" height="72"/>
-  <!-- <img src="https://img.shields.io/badge/ONNX-000000?style=for-the-badge&logo=onnx&logoColor=FFC300" height="72"/> -->
   <img src="https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logo=xgboost&logoColor=FFC300" height="72"/>
   <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=FFC300" height="72"/>
   <img src="https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logo=google&logoColor=FFC300" height="72"/>
 </p>
+
 <div align="center">
 <img src="./assets/divider.svg" width="100%" alt=""/>
 </div>
@@ -125,12 +125,28 @@ I'm **Aditya** — final-year **Computer Engineering** student (Data Science min
 
 ## GitHub Statistics
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityasync&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=10&title_color=FFC300&icon_color=FFC300&bg_color=000000&text_color=D4D4D8" alt="GitHub Stats" height="200" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasync&hide_border=true&border_radius=10&stroke=FFC300&background=000000&ring=FFC300&fire=FFC300&currStreakLabel=FFC300&sideLabels=D4D4D8&currStreakNum=D4D4D8&sideNums=D4D4D8&dates=71717A" alt="GitHub Streak" height="200" />
+<img src="https://github-stats-extended.vercel.app/api?username=adityasync&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=10&title_color=FFC300&icon_color=FFC300&bg_color=000000&text_color=D4D4D8" alt="GitHub Stats" height="200" />
+<!-- <img src="https://streak-stats.demolab.com/?user=adityasync&hide_border=true&border_radius=10&stroke=FFC300&background=000000&ring=FFC300&fire=FFC300&currStreakLabel=FFC300&sideLabels=D4D4D8&currStreakNum=D4D4D8&sideNums=D4D4D8&dates=71717A" alt="GitHub Streak" height="200" /> -->
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityasync&layout=compact&hide_border=true&border_radius=10&title_color=FFC300&bg_color=000000&text_color=D4D4D8&langs_count=8" alt="Top Languages" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adityasync&layout=compact&hide_border=true&border_radius=10&title_color=FFC300&bg_color=000000&text_color=D4D4D8&langs_count=8" alt="Top Languages" height="200" />
 
 </div>
+
+<div align="center">
+<img src="./assets/divider.svg" width="100%" alt=""/>
+</div>
+
+<div align="center">
+
+## Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasync&bg_color=000000&color=FFC300&line=FFC300&point=FFFFFF&area=true&area_color=FFC300&title_color=FFC300&hide_border=true" alt="Contribution Graph" width="100%" />
+
+<!-- <br/><br/>
+
+<img src="https://ghchart.rshah.org/FFC300/adityasync" alt="Yearly Contribution Calendar" width="100%" />
+
+</div> -->
 
 <div align="center">
 <img src="./assets/divider.svg" width="100%" alt=""/>
@@ -152,7 +168,7 @@ An AI-native Indian stock market cockpit with Palantir-inspired density and a fu
 Full-stack supply chain AI copilot — FastAPI, PostgreSQL, a scikit-learn ML pipeline, and GPT-4o streamed live over SSE. Built for the OpenAI × Outskill AI Builders Hackathon.
 
 ### OncoVision-X
-Lung nodule detection using DCA-Net with Monte Carlo Dropout on the LUNA16 dataset — my flagship B.Tech final-year project.
+Lung nodule detection using DCA-Net with Monte Carlo Dropout on the LUNA16 dataset — my flagship final-year project.
 
 </td>
 <td width="50%" valign="top">
